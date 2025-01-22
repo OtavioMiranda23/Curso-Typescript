@@ -12,3 +12,6 @@
 
 # Namespace
 - Sub sistema de modulos do ts
+
+## Configurações TS
+- `noImplicitThis: true` verifica se o this está sendo usado corretamente
